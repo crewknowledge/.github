@@ -2,16 +2,16 @@
 <img src="https://user-images.githubusercontent.com/25063903/154351045-49491dc9-4659-4559-baa0-ce98b8ffe4bb.png" width="100%">
 
 ### :artificial_satellite: &nbsp;Introduction
-We build the flex business managing webapps and provide big data solutions to help your business make better data driven decisions for the future. 
+We build the flex business managing webapps and provide big data solutions to help your business make better data driven decisions for the future. The open-source technologies at the center of all our work help you unlock operational efficiency, develop new capabilities, remove vendor lock-in, reskill your teams, and reduce TCO.
 
-### Our Solutions
+### :kite: &nbsp;Solutions
 Solutions we provide to 
 
 - Data Analytics
 - Data Cleanup 
 - Data Migration
 
-### Our Product
+### :sailboat: &nbsp;Product
 
 - Paperplane
 
