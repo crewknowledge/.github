@@ -1,11 +1,21 @@
 
 <img src="https://user-images.githubusercontent.com/25063903/154351045-49491dc9-4659-4559-baa0-ce98b8ffe4bb.png" width="100%">
 
-### Introduction
-We build the flex business managing webapps and provide big data solutions to help your business make better data driven decisions for the future. 🛰
+### :artificial_satellite: &nbsp;Introduction
+We build the flex business managing webapps and provide big data solutions to help your business make better data driven decisions for the future. 
 
+### Our Solutions
+Solutions we provide to 
 
-*******
+- Data Analytics
+- Data Cleanup 
+- Data Migration
+
+### Our Product
+
+- Paperplane
+
+### :handshake: &nbsp;Lets Connect
 <p>
   <img src="https://user-images.githubusercontent.com/25063903/156443422-bb0b8297-1e69-4353-8d58-36135fea1043.png" width="30px">&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/25063903/156443578-19053165-fbab-40d0-9f0d-a2035c015b4b.png" width="30px">&nbsp;&nbsp;&nbsp;
